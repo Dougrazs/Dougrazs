@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dougrazs
+<h1> 👋 Hi, I’m @Dougrazs </h1>
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me id.oug@hotmail.com
