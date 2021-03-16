@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dougrazs
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me id.oug@hotmail.com
 
 <!---
