@@ -1,6 +1,5 @@
 <h1> 👋 Hi, I’m @Dougrazs </h1>
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Javascript and React
+- 👀 I’m interested in Frontend
 - 📫 How to reach me Dougrazs@gmail.com
 
 <!---
